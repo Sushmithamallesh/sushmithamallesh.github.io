@@ -1,3 +1,3 @@
-## sushmithamallesh.github.io
+## sergeichestakov.github.io
 
 Personal Website
