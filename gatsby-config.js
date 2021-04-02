@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Sergei Chestakov - Portfolio",
-    author: "Sergei Chestakov",
-    description: "Personal Portfolio for Sergei Chestakov",
+    title: "Sushmitha Mallesh- Portfolio",
+    author: "Sushmitha Mallesh",
+    description: "Personal Portfolio for Sushmitha Mallesh",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
