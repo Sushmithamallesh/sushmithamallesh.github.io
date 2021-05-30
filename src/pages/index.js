@@ -119,8 +119,7 @@ class HomeIndex extends React.Component {
           <section id="three">
             <h2>Writing</h2>
             <p>
-              Writing keeps me sane. I think good writing is very hard(atleast for me) and I feel that is the reason it is so 
-              satisfying when you write something that puts what your thinking into words. I am terrified of putting my writing out there.
+              Good writing is very hard(atleast for me!). I am terrified of putting my writing out there.
               This is an attempt at doing the stuff I am scared of. This is a list of all the writing technical and non-technical that I feel is good enough to be out there.
             </p>
             <div className="row">
@@ -130,7 +129,16 @@ class HomeIndex extends React.Component {
                   rel="noopener noreferrer"
                 >
                   Coming up!
-                </a> 
+                </a>
+            </div>
+            <div className="row">
+                <a
+                  href="https://github.com/Sushmithamallesh"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Coming up!
+                </a>
             </div>
           </section>
 
