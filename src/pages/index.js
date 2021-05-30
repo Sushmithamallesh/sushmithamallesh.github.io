@@ -127,6 +127,7 @@ class HomeIndex extends React.Component {
                 <a
                   href="https://github.com/Sushmithamallesh"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   Coming up!
                 </a> 
