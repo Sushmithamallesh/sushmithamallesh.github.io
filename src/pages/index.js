@@ -81,7 +81,9 @@ class HomeIndex extends React.Component {
             <h2>About Me</h2>
             <p class="description">
               Hi! 
+              <br></br>
               I like to build things, write, cycle and run.
+              <br></br>
               Thanks for visiting here!
             </p>
           </section>
