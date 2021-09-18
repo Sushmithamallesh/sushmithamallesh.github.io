@@ -2,7 +2,7 @@
   "name": "sushmithamallesh.github.io",
   "description": "Portfolio for Sushmitha Mallesh",
   "version": "1.0.0",
-  "author": "Sushmitha Malles <sushdec6@gmail.com>",
+  "author": "Sushmitha Mallesh <sushdec6@gmail.com>",
   "dependencies": {
     "gatsby": "^2.0.0",
     "gatsby-plugin-manifest": "^2.0.2",
