@@ -80,9 +80,9 @@ class HomeIndex extends React.Component {
           <section id="one">
             <h2>About Me</h2>
             <p class="description">
-              I'm currently working as a software engineer at{" "}
-              National Instruments. In my free time, I build side
-              projects, read books, run, cycle, and hike.
+              Hi! 
+              I like to build things, write, cycle and run.
+              Thanks for visiting here!
             </p>
           </section>
 
@@ -119,8 +119,7 @@ class HomeIndex extends React.Component {
           <section id="three">
             <h2>Writing</h2>
             <p>
-              Good writing is very hard(atleast for me!). I am terrified of putting my writing out there.
-              This is an attempt at doing the stuff I am scared of. This is a list of all the writing technical and non-technical that I feel is good enough to be out there.
+              'I can shake off everything as I write; my sorrows disappear, my courage is reborn.' -Anne Frank
             </p>
             <div className="row">
                 <a

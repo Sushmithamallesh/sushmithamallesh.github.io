@@ -14,7 +14,7 @@ class Header extends React.Component {
           <h1>
             <strong>Hi I'm Sushmitha </strong>
             <br />
-            <span id="description">Software Engineer </span>            
+            {/* <span id="description">Software Engineer</span>             */}
           </h1>
         </div>
         <Footer />
